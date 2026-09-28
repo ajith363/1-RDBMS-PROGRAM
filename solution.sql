@@ -1,1 +1,7 @@
+CREATE DATABASE AJITH;
+USE AJITH;
 
+CREATE TABLE Department (
+DepartmentID INT PRIMARY KEY,
+DepartmentName VARCHAR(50)
+);
